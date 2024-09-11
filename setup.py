@@ -6,10 +6,10 @@ with open('README.md', 'r', encoding='utf-8') as f:
    
 
 __version__ = "0.0.4"
-REPO_NAME = "mongodbconnectorpkg"
-PKG_NAME= "databaseautomation"
-AUTHOR_USER_NAME = "sunnysavita10"
-AUTHOR_EMAIL = "sunny.savita@ineuron.ai"
+REPO_NAME = "python_package_mongodb_connector" #My Github Repo Name
+PKG_NAME= "Python_MongoDB_Connect" # By this name package will be visible in PyPi Repo
+AUTHOR_USER_NAME = "sdarjunwadkar"
+AUTHOR_EMAIL = "sdarjunwadkar@gmail.com"
 
 setup(
     name=PKG_NAME,
